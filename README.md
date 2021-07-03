@@ -9,6 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=Instagram)](https://www.instagram.com/osmolovsky_code)
 [![VKontakte](https://img.shields.io/badge/VKontakte-fff?style=for-the-badge&logo=VK)](https://vk.com/osmolovsky_code)
 [![Telegram](https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=Telegram)](https://t.me/osmolovsky_code)
+![Discord](https://img.shields.io/badge/enco0080-fff?style=for-the-badge&logo=Discord)
 [![Codewars](https://img.shields.io/badge/Codewars-fff?style=for-the-badge&logo=Codewars&logoColor=CD5C5C)](https://www.codewars.com/users/osmolovsky_code)
 
 ### GitHub Stats
